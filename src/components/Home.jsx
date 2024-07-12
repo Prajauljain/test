@@ -10,6 +10,7 @@ const Home = () => {
       <Link to='/signup' >
       <button>SignUp</button>
       </Link>
+      <h1>I Am developer</h1>
 
     </div>
   )
